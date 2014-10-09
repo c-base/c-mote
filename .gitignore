@@ -1,10 +1,6 @@
-*.SchDocPreview
-History/*
-Project Logs for c-mote/*
 *~
 *.swp
 *.swo
-Project Outputs for c-mote/*
-__Previews/*
+*.SchDocPreview
+History/*
 *.PcbDocPreview
-pcb/History/
