@@ -1,0 +1,10 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=MainBoard\MainBoard.PrjPCB
+[Project2]
+ProjectPath=Air\Air.PrjPCB
+[Project3]
+ProjectPath=Radio\Radio.PrjPCB
+[Project4]
+ProjectPath=TempHumLightSound\TempHumLightSound.PrjPCB
