@@ -1,0 +1,5 @@
+Layer assignments
+=================
+ * Mechanical 1 -> Top Layer mechanical info (cases, outlines etc.)
+ * Mechanical 2 -> Bottom Layer mechanical info
+ * Mechanical 3 -> Comments, dimensions etc.
