@@ -4,3 +4,5 @@
 *.SchDocPreview
 *.PcbDocPreview
 hardware/*/History
+pcb/libraries/*
+pcb/__Previews/*
