@@ -1,0 +1,292 @@
+<?xml version="1.0"?>
+<TComponentSet id="0" CurrentRevColumnWidth="100" NameColumnWidth="300" NextRevColumnWidth="100">
+  <VaultGUID>B7D15EC3-160A-466F-A46C-7801FE6295A7</VaultGUID>
+  <VaultName>Altium Content Vault</VaultName>
+  <RequiredParameters>
+    <TRequiredParameter id="1" ColumnWidth="100">
+      <HRID>A/D Converter</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="2" ColumnWidth="100">
+      <HRID>Comment</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="3" ColumnWidth="100">
+      <HRID>ComponentLink1Description</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="4" ColumnWidth="100">
+      <HRID>ComponentLink1URL</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="5" ColumnWidth="100">
+      <HRID>ComponentLink2Description</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="6" ColumnWidth="100">
+      <HRID>ComponentLink2URL</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="7" ColumnWidth="100">
+      <HRID>ComponentLink3Description</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="8" ColumnWidth="100">
+      <HRID>ComponentLink3URL</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="9" ColumnWidth="100">
+      <HRID>Core</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="10" ColumnWidth="100">
+      <HRID>DatasheetVersion</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="11" ColumnWidth="100">
+      <HRID>Description</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="12" ColumnWidth="100">
+      <HRID>FLASH Size (Prog) (kB)</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="13" ColumnWidth="100">
+      <HRID>I/Os (High Current)</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="14" ColumnWidth="100">
+      <HRID>Internal RAM Size (kB)</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="15" ColumnWidth="100">
+      <HRID>Mounting Technology</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="16" ColumnWidth="100">
+      <HRID>Operating Frequency(F) (Processor speed) (MHz)</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="17" ColumnWidth="100">
+      <HRID>PackageDescription</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="18" ColumnWidth="100">
+      <HRID>PackageReference</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="19" ColumnWidth="100">
+      <HRID>PackageVersion</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="20" ColumnWidth="100">
+      <HRID>Packing</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="21" ColumnWidth="100">
+      <HRID>PartNumber</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="22" ColumnWidth="100">
+      <HRID>Supply Voltage(Vcc) min (V)</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+  </RequiredParameters>
+  <RequiredModels>
+    <TRequiredModel id="23" ColumnWidth="100">
+      <HRID>PCBLIB</HRID>
+      <Visible>true</Visible>
+      <ModelKind>PCBLIB</ModelKind>
+    </TRequiredModel>
+    <TRequiredModel id="24" ColumnWidth="100">
+      <HRID>PCBLIB 1</HRID>
+      <Visible>true</Visible>
+      <ModelKind>PCBLIB</ModelKind>
+    </TRequiredModel>
+    <TRequiredModel id="25" ColumnWidth="100">
+      <HRID>PCBLIB 2</HRID>
+      <Visible>true</Visible>
+      <ModelKind>PCBLIB</ModelKind>
+    </TRequiredModel>
+    <TRequiredModel id="26" ColumnWidth="100">
+      <HRID>PCBLIB 3</HRID>
+      <Visible>true</Visible>
+      <ModelKind>PCBLIB</ModelKind>
+    </TRequiredModel>
+    <TRequiredModel id="27" ColumnWidth="100">
+      <HRID>SCHLIB</HRID>
+      <Visible>true</Visible>
+      <ModelKind>SCHLIB</ModelKind>
+    </TRequiredModel>
+  </RequiredModels>
+  <ModelLinks>
+    <TModelLink id="28">
+      <HRID>PCC-0031-00322-1</HRID>
+      <VaultGUID>B7D15EC3-160A-466F-A46C-7801FE6295A7</VaultGUID>
+      <ItemGUID>9BFC539D-5001-4DFC-A8DA-D1706D77F018</ItemGUID>
+      <ModelKind>PCBLIB</ModelKind>
+      <RevisionGUID>C897E4A1-793E-4128-8A87-DE2363E15581</RevisionGUID>
+    </TModelLink>
+    <TModelLink id="29">
+      <HRID>PCC-0031-00323-1</HRID>
+      <VaultGUID>B7D15EC3-160A-466F-A46C-7801FE6295A7</VaultGUID>
+      <ItemGUID>533F0374-35DE-4A96-B75C-D6AA0518848F</ItemGUID>
+      <ModelKind>PCBLIB</ModelKind>
+      <RevisionGUID>272ED339-3630-4D04-B56E-27162AC0FF5C</RevisionGUID>
+    </TModelLink>
+    <TModelLink id="30">
+      <HRID>PCC-0031-00324-1</HRID>
+      <VaultGUID>B7D15EC3-160A-466F-A46C-7801FE6295A7</VaultGUID>
+      <ItemGUID>E9DC3A3B-8C41-4DBD-933E-94F5D329106D</ItemGUID>
+      <ModelKind>PCBLIB</ModelKind>
+      <RevisionGUID>C798CF33-61FC-41EE-A52A-544C3E8A2D2F</RevisionGUID>
+    </TModelLink>
+    <TModelLink id="31">
+      <HRID>PCC-0031-00325-1</HRID>
+      <VaultGUID>B7D15EC3-160A-466F-A46C-7801FE6295A7</VaultGUID>
+      <ItemGUID>A39D3D0E-A362-4B43-807A-9616B9843387</ItemGUID>
+      <ModelKind>PCBLIB</ModelKind>
+      <RevisionGUID>7CFC7E32-E48D-4C93-8C30-57980CF0CC24</RevisionGUID>
+    </TModelLink>
+    <TModelLink id="32">
+      <HRID>SYM-0031-00317-1</HRID>
+      <VaultGUID>B7D15EC3-160A-466F-A46C-7801FE6295A7</VaultGUID>
+      <ItemGUID>2AA3ACC1-F050-464E-B377-8C1D4CF3787D</ItemGUID>
+      <ModelKind>SCHLIB</ModelKind>
+      <RevisionGUID>DE76C7E0-ED33-48F1-8C14-4938CB31A4BA</RevisionGUID>
+    </TModelLink>
+  </ModelLinks>
+  <PartChoiceListLinks StateIndex="2">
+    <ComponentSet href="#0"/>
+  </PartChoiceListLinks>
+  <TopGroup id="33" StateIndex="2" Collapsed="false">
+    <GUID>0C29A681-18F9-47A6-812A-1622CFE1876C</GUID>
+    <Parameters/>
+    <ModelChoices/>
+    <ComponentSet href="#0"/>
+    <Groups/>
+    <ComponentDefinitions>
+      <TComponentDefinition StateIndex="2">
+        <HRID>CMP-0237-00234</HRID>
+        <GUID>DF901CCA-B804-4766-AC5E-872B5B98D264</GUID>
+        <ParentGroup href="#33"/>
+        <Parameters>
+          <TParameter>
+            <RequiredParameter href="#2"/>
+            <Value>STM32F101R4T6A</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#11"/>
+            <Value>ARM Cortex-M3 32-bit MCU, 16 KB Flash, 4 KB Internal RAM, 51 I/Os, 64-pin LQFP, -40 to 85 degC, Tray</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#17"/>
+            <Value>64-Pin Low Profile Quad Flat Package, 10 x 10 mm Body, 0.5 mm Pitch</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#10"/>
+            <Value>Rev. 5</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#19"/>
+            <Value>Rev. 4, 06/2013</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#1"/>
+            <Value>1x12-bit (16 Channel)</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#12"/>
+            <Value>16</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#13"/>
+            <Value>51</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#3"/>
+            <Value>Manufacturer URL</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#21"/>
+            <Value>STM32F101R4T6A</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#16"/>
+            <Value>36</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#6"/>
+            <Value>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00210837.pdf</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#7"/>
+            <Value>Package Specification</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#9"/>
+            <Value>ARM Cortex-M3</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#18"/>
+            <Value>LQFP64</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#8"/>
+            <Value>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00037051.pdf</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#14"/>
+            <Value>4</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#22"/>
+            <Value>2</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#15"/>
+            <Value>Surface Mount</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#20"/>
+            <Value>Tray</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#5"/>
+            <Value>Datasheet</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#4"/>
+            <Value>http://www.st.com/web/en/home.html</Value>
+          </TParameter>
+        </Parameters>
+        <ModelChoices>
+          <TModelChoice>
+            <RequiredModel href="#27"/>
+            <ModelLink href="#32"/>
+          </TModelChoice>
+          <TModelChoice>
+            <RequiredModel href="#23"/>
+            <ModelLink href="#31"/>
+          </TModelChoice>
+          <TModelChoice>
+            <RequiredModel href="#24"/>
+            <ModelLink href="#30"/>
+          </TModelChoice>
+          <TModelChoice>
+            <RequiredModel href="#25"/>
+            <ModelLink href="#28"/>
+          </TModelChoice>
+          <TModelChoice>
+            <RequiredModel href="#26"/>
+            <ModelLink href="#29"/>
+          </TModelChoice>
+        </ModelChoices>
+        <ItemHRID>CMP-0237-00234</ItemHRID>
+        <RevisionGUID>A479A5DE-60D2-44F8-B770-9CE4AC5DD49C</RevisionGUID>
+        <RevisionId>2</RevisionId>
+      </TComponentDefinition>
+    </ComponentDefinitions>
+  </TopGroup>
+  <ShowReleaseState>false</ShowReleaseState>
+</TComponentSet>
